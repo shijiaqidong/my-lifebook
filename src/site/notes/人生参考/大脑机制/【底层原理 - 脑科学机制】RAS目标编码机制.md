@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/人生参考/大脑机制/【底层原理 - 脑科学机制】RAS目标编码机制/"}
+{"dg-publish":true,"permalink":"/人生参考/大脑机制/【底层原理 - 脑科学机制】RAS目标编码机制/","tags":["gardenEntry"]}
 ---
 
 #### 1. 定义与场景
